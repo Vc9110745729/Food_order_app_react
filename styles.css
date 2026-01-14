@@ -55,7 +55,12 @@ li {
 }
 
 .res-container {
-  display: flex;
+  display: flex; 
   margin : 1rem;
   padding : 0.5rem;
+}
+
+.filter-btn {
+  margin : 1rem;
+  cursor: pointer;
 }
